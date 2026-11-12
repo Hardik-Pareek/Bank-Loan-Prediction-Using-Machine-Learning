@@ -31,7 +31,7 @@ The dataset contains information about:
 - Asset information: Residential, commercial, luxury and bank asset values.
 - Target variable: Loan status (Approved or Rejected).
 
-**Dataset attribution:** Kaggle. Add the original Kaggle dataset URL here so readers can access the source and verify its licence.
+**Dataset attribution:** The Loan Approval Prediction Dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset). Please refer to the original dataset page for licensing and usage terms.
 
 ## Machine Learning Models Implemented
 
